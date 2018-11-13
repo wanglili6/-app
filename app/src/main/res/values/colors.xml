@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#FF6666</color>
+    <color name="colorPrimary">#FF9999</color>
+    <color name="colorAccent">#FF9966</color>
+    <color name="color_while">#ffffff</color>
+    <color name="text_color">#333333</color>
+    <color name="text_gray_color">#666666</color>
+    <color name="xian_color">#cacaca</color>
+    <color name="bg_color">#fefef4</color>
+</resources>
